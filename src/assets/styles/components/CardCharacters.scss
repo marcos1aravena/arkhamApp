@@ -1,0 +1,41 @@
+.containerCard{
+    min-width: 275px;
+    max-width: 275px;
+    height: 450px;
+   
+}
+
+.bottom {
+    position: absolute;
+    padding-top: 15em;
+    bottom: -1.3em;
+    width: 12.2em;
+    height: 18em;
+    text-align: center;
+    background: black !important;
+    background: linear-gradient(
+180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.4822303922) 41%, black 80%) !important;
+    font-size: 165%;
+    cursor: pointer;
+    color: white
+}
+
+.bottom:hover {
+    position: absolute;
+    padding-top: 15em;
+    bottom: -1.3em;
+    width: 12.2em;
+    height: 18em;
+    text-align: center;
+    background: black !important;
+    background: linear-gradient(
+180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.4822303922) 41%, #09a0cb 80%) !important;
+    font-size: 165%;
+    cursor: pointer;
+    color: white
+}
+
+.colCard{
+    margin-top: 5%;
+}
+  

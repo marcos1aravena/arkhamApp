@@ -1,0 +1,38 @@
+footer{
+    margin-top: 100px;
+    background: rgb(49, 49, 49);
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.col.center{
+    text-align: center;
+    padding: 1%;
+}
+
+.col.left{
+    text-align: left;
+    padding: 1%;
+}
+
+.col.right{
+    text-align: right;
+    padding: 1%;
+}
+
+.row.top{
+    
+}
+
+.row.down{
+    border-top: 1px solid #7a7a7a;
+}
+
+@media only screen and (max-width: 600px) {
+    footer{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}

@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+  }
+  
+body {
+    height: 100%;
+    margin: 0px;
+    background-image: url("../images/backgroundimg.jpg");
+    color:aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#app {
+    height: 100%;
+}
+
+.layout{
+    min-height: 500px;
+}
+
+.containerHeight{
+    min-height: 36em;
+}

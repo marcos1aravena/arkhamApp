@@ -1,0 +1,6 @@
+{
+    "messageSuccessCharacter" : "Success when adding character!" ,
+    "messageErrorCharacter" : "ERROR! You must select a list" ,
+    "messageSuccessList" : "Successfully created list!" ,
+    "messageErrorList" : "ERROR!" 
+}

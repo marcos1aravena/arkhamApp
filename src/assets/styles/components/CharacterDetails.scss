@@ -1,0 +1,71 @@
+.imgCharacter {
+    box-shadow: -4px 31px 57px 21px rgb(9 160 203 / 75%);
+    border: 4px solid #1c1c1c;
+    border-radius: 13px;
+}
+
+.powerStatsBox{
+min-width: 100%;
+min-height: 100px;
+background: #3c3c3c;
+border-radius: 20px;}
+
+.progress{
+    position: relative;
+    height: 20px;
+    width: 10rem;
+    border-radius: 15px;
+    background-color: #e9ecef00 !important
+}
+
+#strength{
+    position: absolute;
+    background-color: rgb(9 160 203);
+    width: 1px;
+    height: 15px;
+    border-radius: 15px; 
+}
+
+#speed{
+    position: absolute;
+    background-color: rgb(9 160 203);
+    width: 1px;
+    height: 15px;
+    border-radius: 15px; 
+}
+
+#power{
+    position: absolute;
+    background-color: rgb(9 160 203);
+    width: 1px;
+    height: 15px;
+    border-radius: 15px; 
+}
+
+#durability{
+    position: absolute;
+    background-color: rgb(9 160 203);
+    width: 1px;
+    height: 15px;
+    border-radius: 15px; 
+}
+
+.colTitle{
+    padding-top: 5%;
+    padding-left: 5%;
+    text-align-last: center;
+    font-size: 22px;
+    padding-right: 5%;
+    padding-bottom: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+    .col-5.nowidth{
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    .col-3{
+        max-width: 100% !important;
+        flex: 0 0 100% !important;
+    }
+}
