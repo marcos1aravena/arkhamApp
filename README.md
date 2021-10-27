@@ -3,14 +3,12 @@ Aplicación que funciona como un tipo de galeria de distintos personajes de fant
 
 ## Instalación
 En la carpeta arkham_app, instalar los paquetes necesarios con:
----bash
+
 npm install
----
 
 Una vez instalados los paquetes, levantar el servidor de pruebas con:
----bash
+
 npm run dev-server
----
 
 # patron de arquitectura
 
